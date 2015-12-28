@@ -6,7 +6,7 @@ class threeCheckPermutation{
 		String str2 = "liehacrb";
 		if(true == checkPermutation(str1,str2))
 		{
-			System.out.println("the same string");
+			System.out.println("It is the same string");
 		}
 		else
 		{

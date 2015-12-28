@@ -2,7 +2,7 @@ class fourReplaceSpace{
 	public static void main(String[] args)
 	{
 		char [] chArray = new char[18];
-		String str = "Mr John Smith";
+		String str = "Ms John Smith";
 		for(int i = 0 ; i <str.length();i++)
 		{
 			chArray[i] = str.charAt(i);
